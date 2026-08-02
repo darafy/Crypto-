@@ -1,4 +1,4 @@
-# SKILL: Crypto Research & Web3 Intelligence
+# SKILL: Crypto Research & Web3 Intelligence h
 
 ## DESCRIPTION
 Professional crypto research skill focused on blockchain ecosystems, tokenomics, DeFi protocols, meme coins, market intelligence, community analysis, and on-chain insights.
